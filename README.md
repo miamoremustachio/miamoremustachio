@@ -1,6 +1,6 @@
-# 💥Howdy!!
+<h1 align=center>💖Howdy!!💖</h1>
 
-<table>
+<table align=center>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/92cd5d16-8bc9-45c2-8aab-f70d716cabc1"/></td>
     <td>
